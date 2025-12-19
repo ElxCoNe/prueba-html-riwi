@@ -1,4 +1,4 @@
-##Para para clonar el repositorio
+# Para para clonar el repositorio
 
 1.Iniciar un repositorio de visual studio code
 
@@ -12,7 +12,7 @@
 
 
 
-##INFORMACION CODER
+# INFORMACION CODER
 
 Nombre: Juan Camilo Hernández Ortega
 Clan: Clan McCarthy
@@ -20,7 +20,7 @@ Correo: jchernandez10ocm@gmail.com
 Documento de identidad: 1017270052
 
 
-**Recursos utilizados
+# Recursos utilizados
 Todas la imagenes,iconos y fuentes fueron extraidas del figma: 
 https://www.figma.com/design/hw5hfbrYc2SDWhcBjZeVqV/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design--Community-?node-id=0-1&p=f&t=cGtDkgo8FHt4Z8E6-0
 
