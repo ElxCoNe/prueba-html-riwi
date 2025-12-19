@@ -1,4 +1,4 @@
-Para para clonar el repositorio
+##Para para clonar el repositorio
 
 1.Iniciar un repositorio de visual studio code
 
@@ -12,7 +12,7 @@ Para para clonar el repositorio
 
 
 
-**INFORMACION CODER
+##INFORMACION CODER
 
 Nombre: Juan Camilo Hernández Ortega
 Clan: Clan McCarthy
