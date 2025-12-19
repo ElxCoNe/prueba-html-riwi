@@ -14,10 +14,10 @@
 
 # INFORMACION CODER
 
-Nombre: Juan Camilo Hernández Ortega
-Clan: Clan McCarthy
-Correo: jchernandez10ocm@gmail.com
-Documento de identidad: 1017270052
+Nombre: Juan Camilo Hernández Ortega |
+Clan: Clan McCarthy |
+Correo: jchernandez10ocm@gmail.com |
+Documento de identidad: 1017270052 |
 
 
 # Recursos utilizados
