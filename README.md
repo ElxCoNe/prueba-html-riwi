@@ -8,7 +8,7 @@ Para para clonar el repositorio
 
 4.Ingresar a la carpeta que se crea automaticamente
 
-6. Encontrarás todos los recursos utilizados para llevar a cabo este proyecto
+5. Encontrarás todos los recursos utilizados para llevar a cabo este proyecto
 
 
 
